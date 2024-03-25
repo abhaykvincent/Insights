@@ -19,3 +19,5 @@ Firebase Cloud Functions (v2): Leveraging Google Cloud Run under the hood for co
 Idempotency Keys: Ensuring API requests (like payments) aren't processed twice.
 
 Database Sharding: Horizontal partitioning of data across multiple database instances.
+
+B-Tree vs. LSM Trees: Choosing between read-optimized and write-optimized indexing.
