@@ -13,3 +13,5 @@ V8 JIT Compilation: How JavaScript is optimized into machine code at runtime.V8 
 CompilationCompilationvCompilationCompilationCompilationCompilationCompilationCompilationCompilationCompilationCompilationCompilationvCompilationv
 
 II. Backend, Cloud & Databases
+
+Firebase Cloud Functions (v2): Leveraging Google Cloud Run under the hood for concurrency.
