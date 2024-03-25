@@ -15,3 +15,5 @@ CompilationCompilationvCompilationCompilationCompilationCompilationCompilationCo
 II. Backend, Cloud & Databases
 
 Firebase Cloud Functions (v2): Leveraging Google Cloud Run under the hood for concurrency.
+
+Idempotency Keys: Ensuring API requests (like payments) aren't processed twice.
