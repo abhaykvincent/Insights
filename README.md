@@ -23,3 +23,5 @@ Database Sharding: Horizontal partitioning of data across multiple database inst
 B-Tree vs. LSM Trees: Choosing between read-optimized and write-optimized indexing.
 
 Eventual Consistency: Balancing availability and consistency in distributed systems (CAP Theorem).
+
+Redis Caching Strategies: Implementing "Cache-Aside" vs. "Write-Through" patterns.
