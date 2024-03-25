@@ -21,3 +21,5 @@ Idempotency Keys: Ensuring API requests (like payments) aren't processed twice.
 Database Sharding: Horizontal partitioning of data across multiple database instances.
 
 B-Tree vs. LSM Trees: Choosing between read-optimized and write-optimized indexing.
+
+Eventual Consistency: Balancing availability and consistency in distributed systems (CAP Theorem).
