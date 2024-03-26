@@ -25,3 +25,5 @@ B-Tree vs. LSM Trees: Choosing between read-optimized and write-optimized indexi
 Eventual Consistency: Balancing availability and consistency in distributed systems (CAP Theorem).
 
 Redis Caching Strategies: Implementing "Cache-Aside" vs. "Write-Through" patterns.
+
+Object Storage Lifecycle Rules: Automatically moving aged data to "Coldline" or "Archive" tiers to save costs.
