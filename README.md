@@ -29,3 +29,5 @@ Redis Caching Strategies: Implementing "Cache-Aside" vs. "Write-Through" pattern
 Object Storage Lifecycle Rules: Automatically moving aged data to "Coldline" or "Archive" tiers to save costs.
 
 GraphQL N+1 Problem: Solving inefficient data fetching using DataLoader patterns.
+
+gRPC: High-performance, language-agnostic remote procedure calls using Protocol Buffers.
