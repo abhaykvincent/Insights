@@ -27,3 +27,5 @@ Eventual Consistency: Balancing availability and consistency in distributed syst
 Redis Caching Strategies: Implementing "Cache-Aside" vs. "Write-Through" patterns.
 
 Object Storage Lifecycle Rules: Automatically moving aged data to "Coldline" or "Archive" tiers to save costs.
+
+GraphQL N+1 Problem: Solving inefficient data fetching using DataLoader patterns.
