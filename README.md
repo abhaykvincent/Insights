@@ -37,3 +37,5 @@ Serverless Cold Starts: Strategies for keeping execution environments warm.
 Optimistic Locking: Using version numbers to prevent data overwrites in high-concurrency DBs.
 
 SQL vs. NoSQL: Evaluating relational constraints against JSON-like flexibility.
+
+Data Warehousing (BigQuery): Storing massive datasets for analytical processing rather than transactions.
