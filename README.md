@@ -41,3 +41,5 @@ SQL vs. NoSQL: Evaluating relational constraints against JSON-like flexibility.
 Data Warehousing (BigQuery): Storing massive datasets for analytical processing rather than transactions.
 
 Reverse Proxies (Nginx): Managing load balancing and SSL termination.
+
+Message Queues (RabbitMQ/PubSub): Decoupling microservices via asynchronous messaging.
