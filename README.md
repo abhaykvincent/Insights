@@ -43,3 +43,6 @@ Data Warehousing (BigQuery): Storing massive datasets for analytical processing 
 Reverse Proxies (Nginx): Managing load balancing and SSL termination.
 
 Message Queues (RabbitMQ/PubSub): Decoupling microservices via asynchronous messaging.
+
+
+III. Desktop & Native Integration
