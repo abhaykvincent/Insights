@@ -33,3 +33,5 @@ GraphQL N+1 Problem: Solving inefficient data fetching using DataLoader patterns
 gRPC: High-performance, language-agnostic remote procedure calls using Protocol Buffers.
 
 Serverless Cold Starts: Strategies for keeping execution environments warm.
+
+Optimistic Locking: Using version numbers to prevent data overwrites in high-concurrency DBs.
