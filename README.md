@@ -46,3 +46,5 @@ Message Queues (RabbitMQ/PubSub): Decoupling microservices via asynchronous mess
 
 
 III. Desktop & Native Integration
+
+Electron.js IPC: Secure communication between the Main and Renderer processes.
