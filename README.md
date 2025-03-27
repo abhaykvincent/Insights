@@ -6,3 +6,4 @@ Event Loop Phases: Deep dive into the Poll, Check, and Close callbacks within li
 Hydration (Frameworks): The process of attaching event listeners to static HTML rendered by the server.
 Tree Shaking: Dead-code elimination in JavaScript bundles using ES Modules.
 Memory Leaks in SPAs: Identifying retained heap objects in long-lived browser sessions.
+Web Workers: Offloading heavy computations (like image processing) to background threads.
