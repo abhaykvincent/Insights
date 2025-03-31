@@ -7,4 +7,4 @@ Hydration (Frameworks): The process of attaching event listeners to static HTML 
 Tree Shaking: Dead-code elimination in JavaScript bundles using ES Modules.
 Memory Leaks in SPAs: Identifying retained heap objects in long-lived browser sessions.
 Web Workers: Offloading heavy computations (like image processing) to background threads.
-Service Workers: Managing 
+Service Workers: Managing PWA offline 
