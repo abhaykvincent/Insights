@@ -9,3 +9,4 @@ Memory Leaks in SPAs: Identifying retained heap objects in long-lived browser se
 Web Workers: Offloading heavy computations (like image processing) to background threads.
 Service Workers: Managing PWA offline capabilities and fetch interception.
 V8 JIT Compilation: How JavaScript is optimized into machine code at runtime.V8 JIT CompilationV8 JIT CompilationV8 JIT Compilation
+V8 JIT Compilation: How JavaScript is optimized into machine code at runtime.V8 JIT CompilationV8 JIT CompilationV8 JIT Compilation
